@@ -37,12 +37,12 @@ Example:
 6.	Description: Clicking ‘Apply’ after modifying multipliers using the scroll bar generates an error message 
 
 7.	Steps to Replicate: 
-  1)	Select scenario analysis tab
-  2)	Then quick scenario analysis with tree
-  3)	On left drop tree: Households/Individuals -> demographic/population -> tfrm (I only selected USA)
-  4)	Manually set a change not equal to 1
-  5)	Click “Apply”
-  6)	Error message appears (see screenshot)
+      1)	Select scenario analysis tab
+      2)	Then quick scenario analysis with tree
+      3)	On left drop tree: Households/Individuals -> demographic/population -> tfrm (I only selected USA)
+      4)	Manually set a change not equal to 1
+      5)	Click “Apply”
+      6)	Error message appears (see screenshot)
 
 8.	Reproducible in VB6 (Y/N): No. There is no ‘Apply’ button in VB6. 
 
