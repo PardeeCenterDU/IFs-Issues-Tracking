@@ -25,11 +25,17 @@ This repository only holds the list of bugs that have been reported for IFs. Any
 
 Example:
 1.	Short Description: Error Changing Scenario Parameter
+
 1.1.	Date found: 10/13/20
+
 1.2.	IFs Version: 7.56 .NET Install 
-1.3.	Found by: Luca Picci 
+
+1.3.	Found by: Fizz Buzz
+
 1.4.	Error Type: Blowup
+
 1.5.	Description: Clicking ‘Apply’ after modifying multipliers using the scroll bar generates an error message 
+
 1.6.	Steps to Replicate: 
   1)	Select scenario analysis tab
   2)	Then quick scenario analysis with tree
@@ -37,8 +43,12 @@ Example:
   4)	Manually set a change not equal to 1
   5)	Click “Apply”
   6)	Error message appears (see screenshot)
+
 1.7.	Reproducible in VB6 (Y/N): No. There is no ‘Apply’ button in VB6. 
+
 1.8.	Screenshot (If possible, paste text directly so that it can be copied or searched within): (Not Shown Here)
+
 1.9.  Developer Branch
+
 1.10  Discussion: [Intentionally left Blank]
 
