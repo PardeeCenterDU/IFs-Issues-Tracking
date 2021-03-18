@@ -4,7 +4,8 @@ This repository only holds the list of bugs that have been reported for IFs. Any
 # Adding an Error Report
 1. Go to "issues"
 2. Confirm your issue has not already been reported. If it has *not* then continue on.
-3. Please include the following information in the description of the error:
+3. Click on "New Issue"
+4. Please include the following information in the description of the error:
     1)	Error short description/title
     2)	Date found 
     3)	IFs Version (number, VB6/.NET, Install/Development)
