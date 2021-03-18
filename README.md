@@ -21,7 +21,7 @@ This repository only holds the list of bugs that have been reported for IFs. Any
 5. Add any other labels as appropriate, based off their description
 6. Submit!
 
-# Example of an Approrpiate Error Report
+# Example of an Appropriate Error Report
 
 Example:
 1.	Short Description: Error Changing Scenario Parameter
