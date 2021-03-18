@@ -4,18 +4,18 @@ This repository only holds the list of bugs that have been reported for IFs. Any
 # Adding an Error Report
 1. Go to "issues"
 2. Confirm your issue has not already been reported. If it has *not* then continue on.
-3. For include the following information in the description of the error:
-  1)	Error short description/title
-  2)	Date found 
-  3)	IFs Version (number, VB6/.NET, Install/Development)
-  4)	Person found by
-  5)	Type of error (see below)
-  6)	Description of error
-  7)	Steps to replicate the error, if applicable 
-  8)	Attempt to recreate error in VB6 or .NET depending on where found and note whether error reproducible
-  9)	Screen shot of error message or anything else that is relevant
-  10) Specify what branch you were on. If you were not using IFs through one of our GitHub repositories, then enter "Production"
-  11)	Discussion (space for follow-up questions and notes)
+3. Please include the following information in the description of the error:
+    1)	Error short description/title
+    2)	Date found 
+    3)	IFs Version (number, VB6/.NET, Install/Development)
+    4)	Person found by
+    5)	Type of error (see below)
+    6)	Description of error
+    7)	Steps to replicate the error, if applicable 
+    8)	Attempt to recreate error in VB6 or .NET depending on where found and note whether error reproducible
+    9)	Screen shot of error message or anything else that is relevant
+    10) Specify what branch you were on. If you were not using IFs through one of our GitHub repositories, then enter "Production"
+    11)	Discussion (space for follow-up questions and notes)
 
 4. *ALWAYS* add the "New Issue" label
 5. Add any other labels as appropriate, based off their description
