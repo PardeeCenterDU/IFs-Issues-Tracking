@@ -5,13 +5,13 @@ This repository only holds the list of bugs that have been reported for IFs. Any
 1. Go to "issues"
 2. Confirm your issue has not already been reported. If it has *not* then continue on.
 3. Click on "New Issue"
-4. Please include the following information in the description of the error:
-    1)	Error short description/title
+4. Please include the following information in the description of the error (Filled Out Example is Below):
+    1)	Short Description of the Error / Restate of the title
     2)	Date found 
     3)	IFs Version (number, VB6/.NET, Install/Development)
     4)	Person found by
-    5)	Type of error (see below)
-    6)	Description of error
+    5)	Type of error (see below) [This should also be an attached label]
+    6)	Description of error - Long form and additional details beyond what is in the title
     7)	Steps to replicate the error, if applicable 
     8)	Attempt to recreate error in VB6 or .NET depending on where found and note whether error reproducible
     9)	Screen shot of error message or anything else that is relevant
@@ -49,7 +49,7 @@ Example:
 
 9.	Screenshot (If possible, paste text directly so that it can be copied or searched within): (Not Shown Here)
 
-10.  Developer Branch
+10.  Developer Branch for Model, SQLite Branch for GUI
 
 11.  Discussion: [Intentionally left Blank]
 
