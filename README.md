@@ -19,8 +19,9 @@ This repository only holds the list of bugs that have been reported for IFs. Any
     11)	Discussion (space for follow-up questions and notes)
 
 4. *ALWAYS* add the "New Issue" label
-5. Add any other labels as appropriate, based off their description
-6. Submit!
+5. *ALWAYS* add Coryv221 and Solox1 as "Assignees"
+6. Add any other labels as appropriate, based off their description
+7. Submit!
 
 # Example of an Appropriate Error Report
 
